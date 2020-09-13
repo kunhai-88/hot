@@ -1,0 +1,15 @@
+{
+  "name": "HOT",  
+  "short_name": "Infoq 热词", 
+  "description": "Infoq新闻2008年至今的标题和简介中常用(出现次数大于10次)的单词", //用于描述应用
+  "display": "standalone", 
+  "start_url": "/", 
+  "theme_color": "#ffffff", 
+  "background_color": "#ffffff", 
+  "icons": [
+    {
+      "src": "./hot.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }]
+}
