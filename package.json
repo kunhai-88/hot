@@ -1,0 +1,25 @@
+{
+  "name": "google-10000-english",
+  "version": "1.0.0",
+  "description": "Google 常用单词",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/parse.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifrontend-xyz/google-10000-english.git"
+  },
+  "keywords": [
+    "worlds"
+  ],
+  "author": "andy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifrontend-xyz/google-10000-english/issues"
+  },
+  "homepage": "https://github.com/ifrontend-xyz/google-10000-english#readme",
+  "dependencies": {
+    "byline": "^5.0.0"
+  }
+}

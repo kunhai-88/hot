@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Infoq高频单词</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/png" href="./hot.png" />
+  <style>
+    p {
+      margin-bottom: 5px;
+    }
+
+    .main {
+      width: 1200px;
+      display: flex;
+      margin: 50px auto 0;
+      background: #ffffff;
+    }
+
+    .list {
+      width: 280px;
+      overflow: auto;
+    }
+
+    header {
+      height: 48px;
+      line-height: 48px;
+      border-bottom: 2px solid #39b54a;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      margin: 0;
+      font-size: 20px;
+      font-weight: normal;
+      background: #fff;
+    }
+
+    h1 {
+      font-size: 20px;
+      margin: 0;
+      width: 300px;
+      font-weight: normal;
+    }
+
+    .header-bar {
+      height: 48px;
+      width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .tools {
+      position: fixed;
+      top: 50px;
+      bottom: 0px;
+      width: 920px;
+      left: 50%;
+      margin-left: -320px;
+    }
+    
+
+    body {
+      background: #f0ece0;
+      margin: 0;
+    }
+
+    .logo {
+      display: inline-block;
+      width: 48px;
+      margin-right: 5px;
+      vertical-align: bottom;
+    }
+
+    .word {
+      display: block;
+      height: 40px;
+      line-height: 40px;
+      cursor: pointer;
+      border-bottom: 1px solid #eee;
+      border-right: 1px solid #eee;
+      padding: 0 10px;
+      display: flex;
+      justify-content: space-between;
+      transition: all 0.5s;
+      font-size: 15px;
+    }
+
+    .word:active,
+    .word:hover,
+    .active {
+      background: #39b54a;
+      color: #fff;
+      font-weight: 700;
+
+    }
+
+    .frequency {
+      font-size: 13px;
+      display: inline-block;
+    }
+
+    .link {
+      font-size: 16px;
+      display: inline-block;
+      margin: 0 10px;
+      color: #39b54a;
+      text-decoration: none;
+    }
+    @media screen and (max-width: 750px) {
+       .header-bar {
+         width: 100%;
+       }
+       h1{
+         width: 100px;
+       }
+       .title{
+         display: none;
+       }
+       .list {
+        position: fixed;
+        width: 100%;
+        height: 200px;
+        top: 50px;
+        overflow: auto;
+        background: #fff;
+        border-bottom: 1px solid #eee;
+       }
+       .tools{
+         position: fixed;
+         width: 100%;
+         top: 251px;
+         bottom: 0px;
+         left: 0px;
+         margin-left: 0px;
+       }
+    }
+
+  </style>
+  <script>
+
+    function query(word, element) {
+      const active = document.querySelector(".active");
+      if (active) {
+        active.className = 'word';
+      }
+      MtaH5.clickStat('read',{ word })
+      element.className = 'word active';
+      document.querySelector("#baidu").src = "https://cn.bing.com/dict/search?q=" + word;
+    }
+
+  </script>
+</head>
+
+<body>
+  <header>
+    <div class="header-bar">
+      <h1>
+        <img src="./hot.png" class="logo"><span class="title">Infoq高频单词</span></h1>
+      <div>
+        <a class="link" target="_blank" href="http://www.cgdict.com/">词根字典</a>
+        <a class="link" target="_blank" href="help.html">常见词性</a>
+      </div>
+    </div>
+  </header>
+  <div class="main">
+    <div class="list">
+      {{words}}
+    </div>
+    <div class="tools">
+      <iframe id="baidu" title="翻译" src="https://cn.bing.com/dict/search?q=new" width="100%" height="100%" frameborder="0"></iframe>
+    </div>
+  </div>
+  <script>
+    var _mtac = {};
+    (function() {
+        var mta = document.createElement("script");
+        mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.4";
+        mta.setAttribute("name", "MTAH5");
+        mta.setAttribute("sid", "500729413");
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(mta, s);
+    })();
+    </script>
+
+  
+</body>
+
+</html>
