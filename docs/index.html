@@ -147,9 +147,12 @@
       if (active) {
         active.className = 'word';
       }
-      MtaH5.clickStat('read',{ word })
+      if(window.MtaH5){
+        window.MtaH5.clickStat('read',{ word })
+      }
+      
       element.className = 'word active';
-      document.querySelector("#baidu").src = "https://cn.bing.com/dict/search?q=" + word;
+      document.querySelector("#baidu").src = "https://fanyi.sogou.com/?keyword=" + word;
     }
 
   </script>
@@ -4198,7 +4201,7 @@
 
     </div>
     <div class="tools">
-      <iframe id="baidu" title="翻译" src="https://cn.bing.com/dict/search?q=new" width="100%" height="100%" frameborder="0"></iframe>
+      <iframe id="baidu" title="翻译" src="https://fanyi.sogou.com/?keyword=new" width="100%" height="100%" frameborder="0"></iframe>
     </div>
   </div>
   <script>
