@@ -1,43 +1,9 @@
 [
-  {
-    "word": "new",
-    "count": 3536,
-    "frequency": 0.01122090846201202
-  },
-  {
-    "word": "support",
-    "count": 2038,
-    "frequency": 0.006467254368094032
-  },
+ 
   {
     "word": "agile",
     "count": 2011,
     "frequency": 0.0063815743543852305
-  },
-  {
-    "word": "their",
-    "count": 1988,
-    "frequency": 0.006308587676040695
-  },
-  {
-    "word": "from",
-    "count": 1984,
-    "frequency": 0.006295894340676428
-  },
-  {
-    "word": "microsoft",
-    "count": 1839,
-    "frequency": 0.00583576093372175
-  },
-  {
-    "word": "released",
-    "count": 1796,
-    "frequency": 0.005699307578555879
-  },
-  {
-    "word": "can",
-    "count": 1622,
-    "frequency": 0.005147147490210265
   },
   {
     "word": "release",
@@ -50,54 +16,14 @@
     "frequency": 0.005131280821004932
   },
   {
-    "word": "net",
-    "count": 1524,
-    "frequency": 0.004836160773785724
-  },
-  {
-    "word": "about",
-    "count": 1522,
-    "frequency": 0.00482981410610359
-  },
-  {
     "word": "cloud",
     "count": 1504,
     "frequency": 0.004772694096964389
   },
   {
-    "word": "data",
-    "count": 1502,
-    "frequency": 0.004766347429282255
-  },
-  {
-    "word": "java",
-    "count": 1446,
-    "frequency": 0.0045886407341825175
-  },
-  {
-    "word": "how",
-    "count": 1426,
-    "frequency": 0.0045251740573611825
-  },
-  {
-    "word": "developers",
-    "count": 1343,
-    "frequency": 0.004261787348552643
-  },
-  {
-    "word": "google",
-    "count": 1341,
-    "frequency": 0.004255440680870509
-  },
-  {
     "word": "development",
     "count": 1309,
     "frequency": 0.0041538939979563734
-  },
-  {
-    "word": "its",
-    "count": 1294,
-    "frequency": 0.004106293990340372
   },
   {
     "word": "software",
@@ -110,39 +36,9 @@
     "frequency": 0.0040523473150422375
   },
   {
-    "word": "more",
-    "count": 1274,
-    "frequency": 0.004042827313519037
-  },
-  {
-    "word": "web",
-    "count": 1233,
-    "frequency": 0.003912720626035301
-  },
-  {
-    "word": "version",
-    "count": 1218,
-    "frequency": 0.003865120618419299
-  },
-  {
-    "word": "open",
-    "count": 1204,
-    "frequency": 0.0038206939446443645
-  },
-  {
-    "word": "will",
-    "count": 1198,
-    "frequency": 0.003801653941597964
-  },
-  {
     "word": "recently",
     "count": 1165,
     "frequency": 0.0036969339248427613
-  },
-  {
-    "word": "code",
-    "count": 1153,
-    "frequency": 0.0036588539187499603
   },
   {
     "word": "framework",
@@ -155,11 +51,6 @@
     "frequency": 0.003547787234312624
   },
   {
-    "word": "using",
-    "count": 1096,
-    "frequency": 0.0034779738898091557
-  },
-  {
     "word": "service",
     "count": 1094,
     "frequency": 0.003471627222127022
@@ -170,85 +61,28 @@
     "frequency": 0.0033954672099414203
   },
   {
-    "word": "platform",
-    "count": 1033,
-    "frequency": 0.0032780538578219506
-  },
-  {
     "word": "features",
     "count": 1033,
     "frequency": 0.0032780538578219506
   },
-  {
-    "word": "project",
-    "count": 1023,
-    "frequency": 0.003246320519411283
-  },
-  {
-    "word": "team",
-    "count": 988,
-    "frequency": 0.003135253834973947
-  },
-  {
-    "word": "been",
-    "count": 977,
-    "frequency": 0.0031003471627222127
-  },
-  {
-    "word": "or",
-    "count": 974,
-    "frequency": 0.0030908271611990125
-  },
-  {
-    "word": "they",
-    "count": 966,
-    "frequency": 0.0030654404904704785
-  },
-  {
-    "word": "now",
-    "count": 951,
-    "frequency": 0.0030178404828544773
-  },
+  
   {
     "word": "conference",
     "count": 913,
     "frequency": 0.002897253796893941
   },
   {
-    "word": "services",
-    "count": 849,
-    "frequency": 0.002694160431065669
-  },
-  {
     "word": "visual",
     "count": 845,
     "frequency": 0.002681467095701402
   },
-  {
-    "word": "source",
-    "count": 844,
-    "frequency": 0.0026782937618603352
-  },
+
   {
     "word": "performance",
     "count": 832,
     "frequency": 0.0026402137557675343
   },
-  {
-    "word": "was",
-    "count": 817,
-    "frequency": 0.002592613748151533
-  },
-  {
-    "word": "api",
-    "count": 810,
-    "frequency": 0.002570400411264066
-  },
-  {
-    "word": "what",
-    "count": 810,
-    "frequency": 0.002570400411264066
-  },
+ 
   {
     "word": "studio",
     "count": 802,
@@ -259,21 +93,7 @@
     "count": 768,
     "frequency": 0.0024371203899392624
   },
-  {
-    "word": "some",
-    "count": 766,
-    "frequency": 0.002430773722257129
-  },
-  {
-    "word": "also",
-    "count": 757,
-    "frequency": 0.002402213717687528
-  },
-  {
-    "word": "use",
-    "count": 742,
-    "frequency": 0.002354613710071527
-  },
+  
   {
     "word": "azure",
     "count": 735,
@@ -299,60 +119,11 @@
     "count": 695,
     "frequency": 0.00220546701954139
   },
-  {
-    "word": "but",
-    "count": 690,
-    "frequency": 0.002189600350336056
-  },
-  {
-    "word": "server",
-    "count": 678,
-    "frequency": 0.002151520344243255
-  },
-  {
-    "word": "first",
-    "count": 670,
-    "frequency": 0.002126133673514721
-  },
+  
   {
     "word": "recent",
     "count": 668,
     "frequency": 0.0021197870058325876
-  },
-  {
-    "word": "not",
-    "count": 666,
-    "frequency": 0.002113440338150454
-  },
-  {
-    "word": "teams",
-    "count": 654,
-    "frequency": 0.002075360332057653
-  },
-  {
-    "word": "into",
-    "count": 653,
-    "frequency": 0.0020721869982165864
-  },
-  {
-    "word": "aws",
-    "count": 653,
-    "frequency": 0.0020721869982165864
-  },
-  {
-    "word": "tools",
-    "count": 646,
-    "frequency": 0.002049973661329119
-  },
-  {
-    "word": "tool",
-    "count": 644,
-    "frequency": 0.0020436269936469856
-  },
-  {
-    "word": "you",
-    "count": 639,
-    "frequency": 0.002027760324441652
   },
   {
     "word": "android",
@@ -364,26 +135,13 @@
     "count": 628,
     "frequency": 0.0019928536521899177
   },
-  {
-    "word": "one",
-    "count": 626,
-    "frequency": 0.001986506984507784
-  },
+ 
   {
     "word": "enterprise",
     "count": 618,
     "frequency": 0.00196112031377925
   },
-  {
-    "word": "we",
-    "count": 616,
-    "frequency": 0.0019547736460971167
-  },
-  {
-    "word": "javascript",
-    "count": 608,
-    "frequency": 0.0019293869753685827
-  },
+ 
   {
     "word": "based",
     "count": 597,
@@ -404,26 +162,13 @@
     "count": 593,
     "frequency": 0.0018817869677525815
   },
-  {
-    "word": "his",
-    "count": 572,
-    "frequency": 0.0018151469570901798
-  },
+  
   {
     "word": "architecture",
     "count": 569,
     "frequency": 0.0018056269555669796
   },
-  {
-    "word": "build",
-    "count": 559,
-    "frequency": 0.001773893617156312
-  },
-  {
-    "word": "when",
-    "count": 539,
-    "frequency": 0.0017104269403349771
-  },
+ 
   {
     "word": "including",
     "count": 538,
@@ -439,66 +184,24 @@
     "count": 532,
     "frequency": 0.0016882136034475099
   },
-  {
-    "word": "he",
-    "count": 529,
-    "frequency": 0.0016786936019243096
-  },
-  {
-    "word": "used",
-    "count": 527,
-    "frequency": 0.0016723469342421761
-  },
-  {
-    "word": "other",
-    "count": 527,
-    "frequency": 0.0016723469342421761
-  },
-  {
-    "word": "all",
-    "count": 526,
-    "frequency": 0.0016691736004011094
-  },
-  {
-    "word": "up",
-    "count": 526,
-    "frequency": 0.0016691736004011094
-  },
+   
   {
     "word": "improvements",
     "count": 518,
     "frequency": 0.0016437869296725754
   },
   {
-    "word": "design",
-    "count": 517,
-    "frequency": 0.0016406135958315087
-  },
-  {
-    "word": "many",
-    "count": 514,
-    "frequency": 0.0016310935943083084
-  },
-  {
     "word": "community",
     "count": 513,
     "frequency": 0.0016279202604672417
   },
-  {
-    "word": "time",
-    "count": 512,
-    "frequency": 0.001624746926626175
-  },
+
   {
     "word": "business",
     "count": 486,
     "frequency": 0.0015422402467584395
   },
-  {
-    "word": "last",
-    "count": 483,
-    "frequency": 0.0015327202452352392
-  },
+   
   {
     "word": "systems",
     "count": 483,
@@ -509,30 +212,11 @@
     "count": 480,
     "frequency": 0.001523200243712039
   },
-  {
-    "word": "over",
-    "count": 471,
-    "frequency": 0.0014946402391424383
-  },
+  
   {
     "word": "provides",
     "count": 470,
     "frequency": 0.0014914669053013715
-  },
-  {
-    "word": "ruby",
-    "count": 470,
-    "frequency": 0.0014914669053013715
-  },
-  {
-    "word": "such",
-    "count": 469,
-    "frequency": 0.0014882935714603048
-  },
-  {
-    "word": "apps",
-    "count": 464,
-    "frequency": 0.001472426902254971
   },
   {
     "word": "microservices",
@@ -554,11 +238,7 @@
     "count": 451,
     "frequency": 0.0014311735623211033
   },
-  {
-    "word": "includes",
-    "count": 443,
-    "frequency": 0.0014057868915925693
-  },
+  
   {
     "word": "these",
     "count": 438,
@@ -570,46 +250,6 @@
     "frequency": 0.0013867468885461688
   },
   {
-    "word": "make",
-    "count": 436,
-    "frequency": 0.001383573554705102
-  },
-  {
-    "word": "there",
-    "count": 436,
-    "frequency": 0.001383573554705102
-  },
-  {
-    "word": "releases",
-    "count": 435,
-    "frequency": 0.0013804002208640353
-  },
-  {
-    "word": "like",
-    "count": 435,
-    "frequency": 0.0013804002208640353
-  },
-  {
-    "word": "most",
-    "count": 434,
-    "frequency": 0.0013772268870229686
-  },
-  {
-    "word": "product",
-    "count": 432,
-    "frequency": 0.001370880219340835
-  },
-  {
-    "word": "adds",
-    "count": 432,
-    "frequency": 0.001370880219340835
-  },
-  {
-    "word": "sql",
-    "count": 431,
-    "frequency": 0.0013677068854997683
-  },
-  {
     "word": "learning",
     "count": 430,
     "frequency": 0.0013645335516587016
@@ -619,11 +259,7 @@
     "count": 426,
     "frequency": 0.0013518402162944346
   },
-  {
-    "word": "better",
-    "count": 422,
-    "frequency": 0.0013391468809301676
-  },
+   
   {
     "word": "availability",
     "count": 420,
@@ -644,21 +280,7 @@
     "count": 413,
     "frequency": 0.0013105868763605669
   },
-  {
-    "word": "out",
-    "count": 412,
-    "frequency": 0.0013074135425195001
-  },
-  {
-    "word": "js",
-    "count": 412,
-    "frequency": 0.0013074135425195001
-  },
-  {
-    "word": "while",
-    "count": 412,
-    "frequency": 0.0013074135425195001
-  },
+  
   {
     "word": "beta",
     "count": 410,
@@ -679,16 +301,7 @@
     "count": 401,
     "frequency": 0.001272506870267766
   },
-  {
-    "word": "two",
-    "count": 400,
-    "frequency": 0.0012693335364266992
-  },
-  {
-    "word": "way",
-    "count": 399,
-    "frequency": 0.0012661602025856324
-  },
+  
   {
     "word": "eclipse",
     "count": 397,
@@ -704,11 +317,7 @@
     "count": 391,
     "frequency": 0.0012407735318570984
   },
-  {
-    "word": "them",
-    "count": 391,
-    "frequency": 0.0012407735318570984
-  },
+ 
   {
     "word": "kubernetes",
     "count": 387,
@@ -729,11 +338,7 @@
     "count": 384,
     "frequency": 0.0012185601949696312
   },
-  {
-    "word": "building",
-    "count": 383,
-    "frequency": 0.0012153868611285644
-  },
+  
   {
     "word": "process",
     "count": 381,
@@ -749,21 +354,7 @@
     "count": 380,
     "frequency": 0.0012058668596053642
   },
-  {
-    "word": "latest",
-    "count": 376,
-    "frequency": 0.0011931735242410972
-  },
-  {
-    "word": "ios",
-    "count": 375,
-    "frequency": 0.0011900001904000305
-  },
-  {
-    "word": "soa",
-    "count": 372,
-    "frequency": 0.0011804801888768302
-  },
+   
   {
     "word": "devops",
     "count": 369,
@@ -779,21 +370,7 @@
     "count": 362,
     "frequency": 0.0011487468504661627
   },
-  {
-    "word": "supports",
-    "count": 362,
-    "frequency": 0.0011487468504661627
-  },
-  {
-    "word": "help",
-    "count": 361,
-    "frequency": 0.001145573516625096
-  },
-  {
-    "word": "than",
-    "count": 360,
-    "frequency": 0.0011424001827840292
-  },
+
   {
     "word": "native",
     "count": 357,
@@ -804,30 +381,11 @@
     "count": 356,
     "frequency": 0.0011297068474197623
   },
-  {
-    "word": "working",
-    "count": 354,
-    "frequency": 0.0011233601797376288
-  },
-  {
-    "word": "event",
-    "count": 353,
-    "frequency": 0.001120186845896562
-  },
+  
   {
     "word": "machine",
     "count": 351,
     "frequency": 0.0011138401782144285
-  },
-  {
-    "word": "app",
-    "count": 351,
-    "frequency": 0.0011138401782144285
-  },
-  {
-    "word": "feature",
-    "count": 350,
-    "frequency": 0.0011106668443733618
   },
   {
     "word": "well",
@@ -849,16 +407,7 @@
     "count": 344,
     "frequency": 0.0010916268413269613
   },
-  {
-    "word": "year",
-    "count": 341,
-    "frequency": 0.001082106839803761
-  },
-  {
-    "word": "after",
-    "count": 340,
-    "frequency": 0.0010789335059626943
-  },
+  
   {
     "word": "major",
     "count": 339,
@@ -869,46 +418,13 @@
     "count": 338,
     "frequency": 0.0010725868382805608
   },
-  {
-    "word": "people",
-    "count": 337,
-    "frequency": 0.001069413504439494
-  },
-  {
-    "word": "users",
-    "count": 336,
-    "frequency": 0.0010662401705984273
-  },
+  
   {
     "word": "spring",
     "count": 335,
     "frequency": 0.0010630668367573605
   },
-  {
-    "word": "both",
-    "count": 330,
-    "frequency": 0.0010472001675520268
-  },
-  {
-    "word": "computing",
-    "count": 330,
-    "frequency": 0.0010472001675520268
-  },
-  {
-    "word": "test",
-    "count": 329,
-    "frequency": 0.00104402683371096
-  },
-  {
-    "word": "need",
-    "count": 329,
-    "frequency": 0.00104402683371096
-  },
-  {
-    "word": "change",
-    "count": 329,
-    "frequency": 0.00104402683371096
-  },
+ 
   {
     "word": "distributed",
     "count": 326,
@@ -919,21 +435,7 @@
     "count": 323,
     "frequency": 0.0010249868306645596
   },
-  {
-    "word": "apis",
-    "count": 321,
-    "frequency": 0.001018640162982426
-  },
-  {
-    "word": "update",
-    "count": 320,
-    "frequency": 0.0010154668291413593
-  },
-  {
-    "word": "number",
-    "count": 319,
-    "frequency": 0.0010122934953002926
-  },
+
   {
     "word": "interview",
     "count": 319,
@@ -965,26 +467,6 @@
     "frequency": 0.0009900801584128253
   },
   {
-    "word": "improved",
-    "count": 312,
-    "frequency": 0.0009900801584128253
-  },
-  {
-    "word": "do",
-    "count": 312,
-    "frequency": 0.0009900801584128253
-  },
-  {
-    "word": "allows",
-    "count": 311,
-    "frequency": 0.0009869068245717586
-  },
-  {
-    "word": "post",
-    "count": 310,
-    "frequency": 0.0009837334907306918
-  },
-  {
     "word": "provide",
     "count": 310,
     "frequency": 0.0009837334907306918
@@ -994,31 +476,13 @@
     "count": 305,
     "frequency": 0.0009678668215253581
   },
-  {
-    "word": "github",
-    "count": 302,
-    "frequency": 0.0009583468200021579
-  },
-  {
-    "word": "years",
-    "count": 302,
-    "frequency": 0.0009583468200021579
-  },
+   
   {
     "word": "improve",
     "count": 301,
     "frequency": 0.0009551734861610911
   },
-  {
-    "word": "blog",
-    "count": 296,
-    "frequency": 0.0009393068169557574
-  },
-  {
-    "word": "part",
-    "count": 294,
-    "frequency": 0.0009329601492736239
-  },
+ 
   {
     "word": "made",
     "count": 294,
@@ -1039,16 +503,7 @@
     "count": 290,
     "frequency": 0.0009202668139093569
   },
-  {
-    "word": "user",
-    "count": 290,
-    "frequency": 0.0009202668139093569
-  },
-  {
-    "word": "just",
-    "count": 290,
-    "frequency": 0.0009202668139093569
-  },
+ 
   {
     "word": "announces",
     "count": 289,
@@ -1059,56 +514,13 @@
     "count": 288,
     "frequency": 0.0009139201462272234
   },
-  {
-    "word": "week",
-    "count": 287,
-    "frequency": 0.0009107468123861566
-  },
-  {
-    "word": "run",
-    "count": 286,
-    "frequency": 0.0009075734785450899
-  },
-  {
-    "word": "next",
-    "count": 285,
-    "frequency": 0.0009044001447040232
-  },
-  {
-    "word": "called",
-    "count": 281,
-    "frequency": 0.0008917068093397562
-  },
+  
   {
     "word": "continuous",
     "count": 280,
     "frequency": 0.0008885334754986894
   },
-  {
-    "word": "asp",
-    "count": 280,
-    "frequency": 0.0008885334754986894
-  },
-  {
-    "word": "set",
-    "count": 276,
-    "frequency": 0.0008758401401344224
-  },
-  {
-    "word": "where",
-    "count": 274,
-    "frequency": 0.0008694934724522889
-  },
-  {
-    "word": "who",
-    "count": 272,
-    "frequency": 0.0008631468047701554
-  },
-  {
-    "word": "no",
-    "count": 271,
-    "frequency": 0.0008599734709290887
-  },
+ 
   {
     "word": "state",
     "count": 270,
@@ -1134,11 +546,7 @@
     "count": 265,
     "frequency": 0.0008409334678826882
   },
-  {
-    "word": "day",
-    "count": 265,
-    "frequency": 0.0008409334678826882
-  },
+  
   {
     "word": "experience",
     "count": 264,
@@ -1204,46 +612,19 @@
     "count": 252,
     "frequency": 0.0007996801279488205
   },
-  {
-    "word": "key",
-    "count": 249,
-    "frequency": 0.0007901601264256202
-  },
-  {
-    "word": "only",
-    "count": 249,
-    "frequency": 0.0007901601264256202
-  },
-  {
-    "word": "why",
-    "count": 248,
-    "frequency": 0.0007869867925845535
-  },
-  {
-    "word": "node",
-    "count": 248,
-    "frequency": 0.0007869867925845535
-  },
+  
   {
     "word": "adoption",
     "count": 246,
     "frequency": 0.00078064012490242
   },
-  {
-    "word": "get",
-    "count": 246,
-    "frequency": 0.00078064012490242
-  },
+ 
   {
     "word": "presented",
     "count": 245,
     "frequency": 0.0007774667910613532
   },
-  {
-    "word": "ee",
-    "count": 244,
-    "frequency": 0.0007742934572202865
-  },
+  
   {
     "word": "introduces",
     "count": 243,
@@ -1254,36 +635,16 @@
     "count": 243,
     "frequency": 0.0007711201233792197
   },
-  {
-    "word": "if",
-    "count": 241,
-    "frequency": 0.0007647734556970862
-  },
-  {
-    "word": "research",
-    "count": 240,
-    "frequency": 0.0007616001218560195
-  },
+  
+  
   {
     "word": "infrastructure",
     "count": 239,
     "frequency": 0.0007584267880149527
   },
-  {
-    "word": "offers",
-    "count": 239,
-    "frequency": 0.0007584267880149527
-  },
-  {
-    "word": "include",
-    "count": 237,
-    "frequency": 0.0007520801203328193
-  },
-  {
-    "word": "group",
-    "count": 237,
-    "frequency": 0.0007520801203328193
-  },
+  
+  
+  
   {
     "word": "standard",
     "count": 237,
@@ -1294,16 +655,7 @@
     "count": 236,
     "frequency": 0.0007489067864917525
   },
-  {
-    "word": "any",
-    "count": 234,
-    "frequency": 0.000742560118809619
-  },
-  {
-    "word": "big",
-    "count": 234,
-    "frequency": 0.000742560118809619
-  },
+  
   {
     "word": "within",
     "count": 233,
@@ -1324,11 +676,7 @@
     "count": 232,
     "frequency": 0.0007362134511274855
   },
-  {
-    "word": "ibm",
-    "count": 232,
-    "frequency": 0.0007362134511274855
-  },
+   
   {
     "word": "apple",
     "count": 231,
@@ -1359,16 +707,7 @@
     "count": 228,
     "frequency": 0.0007235201157632185
   },
-  {
-    "word": "updates",
-    "count": 228,
-    "frequency": 0.0007235201157632185
-  },
-  {
-    "word": "free",
-    "count": 227,
-    "frequency": 0.0007203467819221518
-  },
+  
   {
     "word": "without",
     "count": 227,
@@ -1379,31 +718,7 @@
     "count": 227,
     "frequency": 0.0007203467819221518
   },
-  {
-    "word": "large",
-    "count": 226,
-    "frequency": 0.000717173448081085
-  },
-  {
-    "word": "look",
-    "count": 225,
-    "frequency": 0.0007140001142400183
-  },
-  {
-    "word": "today",
-    "count": 225,
-    "frequency": 0.0007140001142400183
-  },
-  {
-    "word": "go",
-    "count": 223,
-    "frequency": 0.0007076534465578848
-  },
-  {
-    "word": "aims",
-    "count": 221,
-    "frequency": 0.0007013067788757513
-  },
+   
   {
     "word": "since",
     "count": 220,
@@ -1414,11 +729,7 @@
     "count": 220,
     "frequency": 0.0006981334450346845
   },
-  {
-    "word": "world",
-    "count": 218,
-    "frequency": 0.000691786777352551
-  },
+   
   {
     "word": "deployment",
     "count": 217,
@@ -1474,11 +785,7 @@
     "count": 209,
     "frequency": 0.0006632267727829503
   },
-  {
-    "word": "creating",
-    "count": 209,
-    "frequency": 0.0006632267727829503
-  },
+   
   {
     "word": "common",
     "count": 208,
@@ -1500,32 +807,13 @@
     "frequency": 0.0006537067712597501
   },
   {
-    "word": "silverlight",
-    "count": 206,
-    "frequency": 0.0006537067712597501
-  },
-  {
     "word": "focus",
     "count": 205,
     "frequency": 0.0006505334374186833
   },
+  
   {
-    "word": "created",
-    "count": 205,
-    "frequency": 0.0006505334374186833
-  },
-  {
-    "word": "talks",
-    "count": 205,
-    "frequency": 0.0006505334374186833
-  },
-  {
-    "word": "sdk",
-    "count": 204,
-    "frequency": 0.0006473601035776166
-  },
-  {
-    "word": "results",
+    "word": "result",
     "count": 204,
     "frequency": 0.0006473601035776166
   },
@@ -1559,36 +847,13 @@
     "count": 200,
     "frequency": 0.0006346667682133496
   },
-  {
-    "word": "rest",
-    "count": 200,
-    "frequency": 0.0006346667682133496
-  },
-  {
-    "word": "ide",
-    "count": 200,
-    "frequency": 0.0006346667682133496
-  },
-  {
-    "word": "value",
-    "count": 199,
-    "frequency": 0.0006314934343722828
-  },
-  {
-    "word": "iot",
-    "count": 199,
-    "frequency": 0.0006314934343722828
-  },
+   
   {
     "word": "existing",
     "count": 198,
     "frequency": 0.0006283201005312161
   },
-  {
-    "word": "take",
-    "count": 198,
-    "frequency": 0.0006283201005312161
-  },
+   
   {
     "word": "offering",
     "count": 198,
@@ -1629,11 +894,7 @@
     "count": 195,
     "frequency": 0.0006188000990080158
   },
-  {
-    "word": "much",
-    "count": 194,
-    "frequency": 0.0006156267651669491
-  },
+   
   {
     "word": "scale",
     "count": 193,
@@ -1649,11 +910,7 @@
     "count": 193,
     "frequency": 0.0006124534313258823
   },
-  {
-    "word": "ai",
-    "count": 191,
-    "frequency": 0.0006061067636437488
-  },
+   
   {
     "word": "analysis",
     "count": 191,
@@ -1694,31 +951,13 @@
     "count": 188,
     "frequency": 0.0005965867621205486
   },
-  {
-    "word": "same",
-    "count": 187,
-    "frequency": 0.0005934134282794819
-  },
+  
   {
     "word": "series",
     "count": 187,
     "frequency": 0.0005934134282794819
   },
-  {
-    "word": "c++",
-    "count": 187,
-    "frequency": 0.0005934134282794819
-  },
-  {
-    "word": "so",
-    "count": 187,
-    "frequency": 0.0005934134282794819
-  },
-  {
-    "word": "others",
-    "count": 186,
-    "frequency": 0.0005902400944384151
-  },
+  
   {
     "word": "problems",
     "count": 185,
@@ -1744,21 +983,13 @@
     "count": 183,
     "frequency": 0.0005807200929152149
   },
-  {
-    "word": "three",
-    "count": 182,
-    "frequency": 0.0005775467590741481
-  },
+
   {
     "word": "possible",
     "count": 182,
     "frequency": 0.0005775467590741481
   },
-  {
-    "word": "lead",
-    "count": 180,
-    "frequency": 0.0005712000913920146
-  },
+  
   {
     "word": "addition",
     "count": 179,
